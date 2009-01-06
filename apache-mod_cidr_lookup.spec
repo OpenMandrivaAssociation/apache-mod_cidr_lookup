@@ -6,7 +6,7 @@
 Summary:	Apache module which enables CIDR lookups
 Name:		apache-%{mod_name}
 Version:	1.2
-Release: 	%mkrel 1
+Release: 	%mkrel 2
 Group:		System/Servers
 License:	Apache License
 URL:		http://sourceforge.net/projects/modcidrlookup/
