@@ -9,7 +9,7 @@ Version:	1.2
 Release: 	%mkrel 7
 Group:		System/Servers
 License:	Apache License
-URL:		http://sourceforge.net/projects/modcidrlookup/
+URL:		https://sourceforge.net/projects/modcidrlookup/
 Source0:	http://ovh.dl.sourceforge.net/sourceforge/modcidrlookup/%{mod_name}-%{version}.tar.gz
 Source1:	%{mod_conf}
 Requires(pre): rpm-helper
